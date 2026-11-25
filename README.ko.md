@@ -34,4 +34,4 @@ Young-Sang Lee, Jung-Min Park, Geon Park, Myeong-Jae Lee, MD Shariful Islam, Ngu
 
 ## 관련 연구
 
-[ICEA 2026, MOD provenance reconstruction](https://github.com/YSL-RyuDo/icea-2026-mod-provenance-research), [WISA 2026, game image verification](https://github.com/YSL-RyuDo/wisa-2026-game-asset-verification), [CISC-W 2025, game pricing](https://github.com/YSL-RyuDo/cisc-w-2025-game-economy)
+[ICEA 2026, MOD provenance reconstruction](https://github.com/YSL-RyuDo/ICEA2026ModProvenanceResearch), [WISA 2026, game image verification](https://github.com/YSL-RyuDo/WISA2026GameAssetVerification), [CISC W 2025, game pricing](https://github.com/YSL-RyuDo/CISCW2025GameEconomy)
